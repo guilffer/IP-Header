@@ -1,3 +1,5 @@
+#include <stdio.h>
+#include <stdlib.h>
 #include "raw_socket.h"
 
 int main(void) {
